@@ -1,3 +1,3 @@
 # Git and GitHub course
 
-Crashtest course for Git.
+Test course for Git.
